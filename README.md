@@ -1,2 +1,2 @@
 # comp-51-jennifer
-For the COMP 051 class at UOP.
+For my COMP 051 class at University of the Pacific.
