@@ -4,6 +4,7 @@
 #include <unistd.h>
 using namespace std;
 
+
 void HUD();
 void Combat();
 void CombatHUD();
